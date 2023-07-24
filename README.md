@@ -1,1 +1,3 @@
 # music-genre-classifier
+
+Music genre classification is the task of assigning a genre label to a given piece of music. Due to the abundance of digital music that has become accessible online recently, this fundamental issue with music information retrieval has drawn a lot of attention. Music recommendation systems, music streaming services, and music search engines are just a few of the many uses for automatic music genre classification.
